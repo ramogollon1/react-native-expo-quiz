@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es el 'event loop' en JavaScript?",
+    "options": [
+      "Un mecanismo para manejar múltiples eventos simultáneamente",
+      "Una función de JavaScript que se llama periódicamente",
+      "Un modelo de concurrencia que permite a JavaScript ejecutar código no bloqueante",
+      "Una técnica para realizar solicitudes HTTP"
+    ],
+    "answer": "Un modelo de concurrencia que permite a JavaScript ejecutar código no bloqueante"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué es 'hoisting' en JavaScript?",
+    "options": [
+      "El proceso por el cual las variables y las declaraciones de función se mueven al principio de su ámbito antes de que se ejecute el código",
+      "Una técnica para optimizar el rendimiento de las aplicaciones",
+      "Una forma de manejar eventos en el DOM",
+      "El proceso de actualización del DOM"
+    ],
+    "answer": "El proceso por el cual las variables y las declaraciones de función se mueven al principio de su ámbito antes de que se ejecute el código"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál es la diferencia entre '== y '===' en JavaScript?",
+    "options": [
+      "'==' compara tanto el valor como el tipo, mientras que '===' solo compara el valor",
+      "'==' compara el valor sin importar el tipo, mientras que '===' compara tanto el valor como el tipo",
+      "Ambos operadores funcionan de la misma manera",
+      "'==' es más rápido que '==='"
+    ],
+    "answer": "'==' compara el valor sin importar el tipo, mientras que '===' compara tanto el valor como el tipo"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué es un 'hook' en React?",
+    "options": [
+      "Una función especial que permite engancharse en características de React como el estado y el ciclo de vida",
+      "Un método para manejar eventos en React",
+      "Una técnica para realizar solicitudes HTTP en React",
+      "Una forma de definir componentes en React"
+    ],
+    "answer": "Una función especial que permite engancharse en características de React como el estado y el ciclo de vida"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué es el 'context' en React y para qué se utiliza?",
+    "options": [
+      "Una técnica para manejar el estado global en una aplicación React",
+      "Un método para manejar eventos en React",
+      "Una función para hacer solicitudes HTTP en React",
+      "Una técnica para realizar animaciones en React"
+    ],
+    "answer": "Una técnica para manejar el estado global en una aplicación React"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué es la 'virtual DOM' en React?",
+    "options": [
+      "Una representación en memoria del DOM real",
+      "Un nuevo tipo de DOM introducido en HTML5",
+      "Una técnica para manejar eventos en React",
+      "Una función para hacer solicitudes HTTP en React"
+    ],
+    "answer": "Una representación en memoria del DOM real"
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es la diferencia entre 'props' y 'state' en React?",
+    "options": [
+      "'props' son datos que se pasan a los componentes, mientras que 'state' es gestionado dentro del componente",
+      "'props' son gestionados dentro del componente, mientras que 'state' se pasa a los componentes",
+      "'props' y 'state' son lo mismo en React",
+      "'props' se utilizan para manejar eventos, mientras que 'state' se utiliza para almacenar datos"
+    ],
+    "answer": "'props' son datos que se pasan a los componentes, mientras que 'state' es gestionado dentro del componente"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué es un 'PureComponent' en React?",
+    "options": [
+      "Un componente que no se actualiza cuando sus props o state cambian",
+      "Un componente que solo se actualiza cuando sus props o state cambian de manera superficial",
+      "Un componente que maneja eventos en React",
+      "Un componente que realiza solicitudes HTTP en React"
+    ],
+    "answer": "Un componente que solo se actualiza cuando sus props o state cambian de manera superficial"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué es la 'render prop' en React?",
+    "options": [
+      "Una técnica para compartir el código entre componentes usando una propiedad cuyo valor es una función",
+      "Una función que renderiza el DOM",
+      "Una propiedad que se utiliza para manejar eventos en React",
+      "Una técnica para realizar animaciones en React"
+    ],
+    "answer": "Una técnica para compartir el código entre componentes usando una propiedad cuyo valor es una función"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué es un 'Higher-Order Component' (HOC) en React?",
+    "options": [
+      "Una función que toma un componente y devuelve un nuevo componente",
+      "Un método para manejar eventos en React",
+      "Una técnica para realizar solicitudes HTTP en React",
+      "Una forma de definir componentes en React"
+    ],
+    "answer": "Una función que toma un componente y devuelve un nuevo componente"
+  }
+]
